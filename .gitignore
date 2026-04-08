@@ -1,0 +1,19 @@
+examples/
+.env
+paper.zip
+paper (2).zip
+paper (3).zip
+paper/
+
+# Python and Pytest cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Execution outputs and logs
+logs/
+results/
+*.log
+
+# OS-generated files
+.DS_Store
